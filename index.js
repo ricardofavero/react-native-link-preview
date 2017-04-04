@@ -23,7 +23,6 @@ export default class LinkPreview {
       });
 
       if (detectedUrl) {
-        if(detectedUrl) {
         RNFetchBlob.fetch('GET', detectedUrl)
         .then(response => response.text())
         .then(text => {
