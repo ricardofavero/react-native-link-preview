@@ -12,7 +12,7 @@
   "author": "Oscar Franco",
   "license": "MIT",
   "peerDependencies": {},
-  "repository": "https://github.com/ospfranco/react-native-link-preview",
+  "repository": "https://github.com/ricardofavero/react-native-link-preview",
   "dependencies": {
     "cheerio-without-node-native": "^0.20.1",
     "react-native-fetch-blob": "^0.10.4"
